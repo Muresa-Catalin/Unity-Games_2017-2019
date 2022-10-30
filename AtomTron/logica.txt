@@ -1,0 +1,5 @@
+1- 8elec
+2- 18elec
+3- 32elec
+4- 48elec
+gg
