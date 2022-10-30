@@ -1,0 +1,68 @@
+Initialize engine version: 4.7.2f1 (a7fe7b7f3d1f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Radeon RX 5500 XT (ID=0x7340)
+    Vendor:   ATI
+    VRAM:     3072 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\Programs\De pe stick\GameDev\GlitchGardenGame\GlitchGarden_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\Programs\De pe stick\GameDev\GlitchGardenGame\GlitchGarden_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\Programs\De pe stick\GameDev\GlitchGardenGame\GlitchGarden_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\Programs\De pe stick\GameDev\GlitchGardenGame\GlitchGarden_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\Programs\De pe stick\GameDev\GlitchGardenGame\GlitchGarden_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\Programs\De pe stick\GameDev\GlitchGardenGame\GlitchGarden_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.190 seconds
+desktop: 1920x1080 144Hz; virtual: 3840x1080 at -1920,0
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: E:\Programs\De pe stick\GameDev\GlitchGardenGame\GlitchGarden_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: E:\Programs\De pe stick\GameDev\GlitchGardenGame\GlitchGarden_Data\Managed\System.dll (this message is harmless)
+UnloadTime: 6.050600 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 184.
+Total: 0.994600 ms (FindLiveObjects: 0.011100 ms CreateObjectMapping: 0.009300 ms MarkObjects: 0.169700 ms  DeleteObjects: 0.138600 ms)
+
+Loaded level
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+UnloadTime: 2.141700 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 228.
+Total: 1.930600 ms (FindLiveObjects: 0.038200 ms CreateObjectMapping: 0.023100 ms MarkObjects: 0.406200 ms  DeleteObjects: 0.083100 ms)
+
+Loaded level
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+UnloadTime: 0.475700 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 182.
+Total: 0.675000 ms (FindLiveObjects: 0.008200 ms CreateObjectMapping: 0.008300 ms MarkObjects: 0.155300 ms  DeleteObjects: 0.013900 ms)
+
+Loaded level
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+UnloadTime: 0.353700 ms
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 766.
+Total: 0.596800 ms (FindLiveObjects: 0.015900 ms CreateObjectMapping: 0.010100 ms MarkObjects: 0.154000 ms  DeleteObjects: 0.021100 ms)
+
+Loaded level
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Cactus Buttpressed
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Spawner (Spawner)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
