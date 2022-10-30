@@ -1,0 +1,134 @@
+Initialize engine version: 4.7.2f1 (a7fe7b7f3d1f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Radeon (TM) RX 480 Graphics (ID=0x67df)
+    Vendor:   ATI
+    VRAM:     4039 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: H:\NumbersWizard EN\Number Wizard game_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading H:\NumbersWizard EN\Number Wizard game_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: H:\NumbersWizard EN\Number Wizard game_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading H:\NumbersWizard EN\Number Wizard game_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: H:\NumbersWizard EN\Number Wizard game_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading H:\NumbersWizard EN\Number Wizard game_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.073 seconds
+desktop: 1920x1080 59Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: H:\NumbersWizard EN\Number Wizard game_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: H:\NumbersWizard EN\Number Wizard game_Data\Managed\System.dll (this message is harmless)
+NullReferenceException: Object reference not set to an instance of an object
+  at NumberWizard.NextGuess () [0x00000] in <filename unknown>:0 
+  at NumberWizard.StartGame () [0x00000] in <filename unknown>:0 
+  at NumberWizard.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Load requested for Game
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+UnloadTime: 3.764820 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 169.
+Total: 1.199562 ms (FindLiveObjects: 0.009817 ms CreateObjectMapping: 0.006418 ms MarkObjects: 0.176328 ms  DeleteObjects: 0.008684 ms)
+
+UnloadTime: 0.498779 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 138.
+Total: 0.499534 ms (FindLiveObjects: 0.021521 ms CreateObjectMapping: 0.007173 ms MarkObjects: 0.114028 ms  DeleteObjects: 0.005663 ms)
+
+Load requested for Start
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+UnloadTime: 0.261283 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 156.
+Total: 0.529740 ms (FindLiveObjects: 0.005663 ms CreateObjectMapping: 0.005286 ms MarkObjects: 0.124600 ms  DeleteObjects: 0.005663 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at NumberWizard.NextGuess () [0x00000] in <filename unknown>:0 
+  at NumberWizard.StartGame () [0x00000] in <filename unknown>:0 
+  at NumberWizard.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Load requested for Game
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+UnloadTime: 0.295265 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 169.
+Total: 0.541067 ms (FindLiveObjects: 0.007551 ms CreateObjectMapping: 0.005663 ms MarkObjects: 0.137060 ms  DeleteObjects: 0.007929 ms)
+
+UnloadTime: 0.347370 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 138.
+Total: 0.533138 ms (FindLiveObjects: 0.006041 ms CreateObjectMapping: 0.005286 ms MarkObjects: 0.141213 ms  DeleteObjects: 0.006041 ms)
+
+Load requested for Start
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+UnloadTime: 0.308102 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 156.
+Total: 0.539935 ms (FindLiveObjects: 0.005663 ms CreateObjectMapping: 0.005286 ms MarkObjects: 0.147632 ms  DeleteObjects: 0.006041 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at NumberWizard.NextGuess () [0x00000] in <filename unknown>:0 
+  at NumberWizard.StartGame () [0x00000] in <filename unknown>:0 
+  at NumberWizard.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Load requested for Game
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+UnloadTime: 0.320940 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 169.
+Total: 0.576937 ms (FindLiveObjects: 0.007173 ms CreateObjectMapping: 0.005663 ms MarkObjects: 0.181992 ms  DeleteObjects: 0.021144 ms)
+
+Load requested for Win
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+UnloadTime: 0.723815 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 138.
+Total: 0.559569 ms (FindLiveObjects: 0.006418 ms CreateObjectMapping: 0.005663 ms MarkObjects: 0.126110 ms  DeleteObjects: 0.006418 ms)
+
+Load requested for Start
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+UnloadTime: 0.255997 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 156.
+Total: 0.456113 ms (FindLiveObjects: 0.020766 ms CreateObjectMapping: 0.029828 ms MarkObjects: 0.118181 ms  DeleteObjects: 0.006418 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at NumberWizard.NextGuess () [0x00000] in <filename unknown>:0 
+  at NumberWizard.StartGame () [0x00000] in <filename unknown>:0 
+  at NumberWizard.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Quiting...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
